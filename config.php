@@ -1,8 +1,8 @@
 <?php
-$host = 'us-cluster-east-01.k8s.cleardb.net';
-$db = 'heroku_25d7902e12d06b7';
-$user = 'b287b890da5b0a';
-$pass = 'e2dedb9f';
+$host = 'eu-cluster-west-01.k8s.cleardb.net';
+$db = 'heroku_37cc80163f188e0';
+$user = 'b436905526765b';
+$pass = 'a5a90943';
 $charset = 'utf8mb4';
 
 $dsn = "mysql:host=$host;dbname=$db;charset=$charset";
